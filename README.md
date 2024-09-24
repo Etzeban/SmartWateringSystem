@@ -38,6 +38,10 @@ Participants trying out the shooting range:  <br/>
 <br />
 Shooting range targets:  <br/>
 <img src="https://i.imgur.com/HGLF6os.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Shooting range target and  counterweight assembled in SolidWorks:  <br/>
+<img src="https://i.imgur.com/di7fHbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
