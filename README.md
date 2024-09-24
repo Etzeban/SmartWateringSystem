@@ -16,28 +16,28 @@ Prototype implementation overview: <br/>
 <img src="https://i.imgur.com/FOiuGBL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Overiew of the irrigation system:  <br/>
+<img src="https://i.imgur.com/wNvKAy4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Circuit design of the system: <br/>
+<img src="https://i.imgur.com/APuHRxE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Prototype electrical layout:  <br/>
+<img src="https://i.imgur.com/unx8sWY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3D model of the water shooting range in SolidWorks:  <br/>
+<img src="https://i.imgur.com/l7vmPMA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Participants trying out the shooting range:  <br/>
+<img src="https://i.imgur.com/ICVScxj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Shooting range targets:  <br/>
+<img src="https://i.imgur.com/HGLF6os.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
