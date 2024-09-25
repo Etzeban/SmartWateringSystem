@@ -42,6 +42,22 @@ Shooting range targets:  <br/>
 <br />
 Shooting range target and  counterweight assembled in SolidWorks:  <br/>
 <img src="https://i.imgur.com/di7fHbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Small water tank in 3D design and in real life:  <br/>
+<img src="https://i.imgur.com/scKuiem.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Stress analysis on small water tank in SolidWorks:  <br/>
+<img src="https://i.imgur.com/74LOmrM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Main water tank in 3D design and in real life:  <br/>
+<img src="https://i.imgur.com/yzcVWAq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Stress analysis on main water tank in SolidWorks:  <br/>
+<img src="https://i.imgur.com/1XPCrDW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
