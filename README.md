@@ -27,7 +27,7 @@ Circuit design of the system: <br/>
 <br />
 <br />
 PCB after soldered the components: <br/>
-<img src="https://i.imgur.com/APuHRxE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NJpmL9o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Prototype electrical layout:  <br/>
