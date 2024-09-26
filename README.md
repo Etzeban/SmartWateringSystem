@@ -22,7 +22,7 @@ Overiew of the irrigation system:  <br/>
 <img src="https://i.imgur.com/wNvKAy4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Circuit design of the system: <br/>
+Circuit design of the system in EasyEDA: <br/>
 <img src="https://i.imgur.com/APuHRxE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
